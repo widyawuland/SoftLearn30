@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">SoftLearn30</string>
+    <string name="top_bar">30 Days of Software Engineering Learning</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Pengenalan Rekayasa Perangkat Lunak</string>
+    <string name="description1">Pelajari apa itu rekayasa perangkat lunak. Ini adalah disiplin yang berfokus pada pengembangan, pemeliharaan, dan manajemen perangkat lunak berkualitas tinggi dengan pendekatan yang terstruktur.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">Model Pengembangan Perangkat Lunak</string>
+    <string name="description2">Kenali berbagai model seperti Waterfall, Agile, dan DevOps. Misalnya, Agile menggunakan iterasi kecil untuk respons cepat terhadap perubahan.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Pemrograman Berorientasi Objek (OOP)</string>
+    <string name="description3">Pelajari konsep dasar OOP seperti Class, Object, Inheritance, Polymorphism, dan Encapsulation. Contohnya, sebuah class Mobil memiliki atribut seperti warna dan kecepatan.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Bahasa Pemrograman (Programming Language)</string>
+    <string name="description4">Pilih satu bahasa pemrograman untuk dipelajari, seperti Python atau Java. Pelajari sintaks dasar seperti variabel, kondisi, dan loop.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Git(Group Inclusive Tour) dan Version Control</string>
+    <string name="description5">Pelajari dasar-dasar Git, alat untuk melacak perubahan dalam kode. Misalnya, gunakan perintah git init, git add, dan git commit.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Basis Data (Database) dan Manajemen Basis Data (Database Management)</string>
+    <string name="description6">Pahami apa itu basis data dan manajemen basis data. Pelajari perbedaan antara relasional (SQL) dan non-relasional (NoSQL). Cobalah query sederhana seperti SELECT * FROM siswa. Kemudian pahami juga proses, teknik, dan alat yang digunakan untuk merancang, mengelola, dan memelihara basis data.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">API(Application Programming Interface) dan RESTful Services</string>
+    <string name="description7">Pelajari konsep API (Application Programming Interface) dan bagaimana RESTful API digunakan untuk komunikasi antara sistem.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Siklus Hidup Perangkat Lunak (SDLC)</string>
+    <string name="description8">Pahami tahapan SDLC seperti perencanaan, analisis kebutuhan, desain, implementasi, pengujian, dan pemeliharaan.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Frontend Development (Pengembangan Antarmuka Pengguna (UI))</string>
+    <string name="description9">Pelajari dasar-dasar pengembangan frontend menggunakan HTML, CSS, dan JavaScript. Misalnya, buat halaman sederhana dengan tombol interaktif.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Backend Development (Pengembangan Sistem Aplikasi atau Web)</string>
+    <string name="description10">Pelajari pengembangan backend dengan framework seperti Laravel (PHP) atau Django (Python). Buat server yang merespons permintaan pengguna.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Pengujian Perangkat Lunak(Software Testing)</string>
+    <string name="description11">Pahami jenis pengujian seperti unit testing, integration testing, dan system testing. Gunakan alat seperti JUnit untuk pengujian otomatis.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Cloud Computing (Infrastruktur Berbasis Cloud)</string>
+    <string name="description12">Pelajari dasar cloud computing, seperti layanan dari AWS, Google Cloud, atau Alibaba Cloud. Misalnya, host aplikasi menggunakan cloud server.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Rekayasa Persyaratan (Requirement Engineering)</string>
+    <string name="description13">Pelajari cara menganalisis dan mendokumentasikan kebutuhan sistem. Gunakan diagram use case untuk memvisualisasikan interaksi pengguna.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Struktur Data (Cara Untuk Menyusun, Menyimpan, dan Mengorganisir Data )</string>
+    <string name="description14">Pelajari struktur data seperti array, linked list, stack, dan queue. Contohnya, gunakan stack untuk proses undo-redo.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Algoritma Dasar (Urutan Langkah Sistematis Untuk Menyelesaikan Masalah)</string>
+    <string name="description15">Pahami algoritma seperti pencarian linier, pencarian biner, atau sorting. Implementasikan algoritma sorting sederhana dalam kode.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">DevOps (development (pengembangan) dan operations (operasi))</string>
+    <string name="description16">Pelajari tentang integrasi CI/CD (Continuous Integration/Continuous Deployment) dan otomatisasi menggunakan Jenkins atau GitHub Actions.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Arsitektur Perangkat Lunak (Software Architecture)</string>
+    <string name="description17">Pelajari berbagai pola arsitektur seperti MVC (Model-View-Controller) dan Microservices.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Internet of Things (IoT) atau Perangkat Cerdas</string>
+    <string name="description18">Pahami dasar-dasar IoT dan bagaimana perangkat seperti sensor berkomunikasi dengan sistem backend.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Keamanan Siber (Cybersecurity)</string>
+    <string name="description19">Pelajari dasar keamanan seperti enkripsi, firewall, dan authentication. Pelajari praktik seperti penggunaan HTTPS.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Mobile App Development (Pengembangan Aplikasi Mobile)</string>
+    <string name="description20">Pelajari dasar pengembangan aplikasi mobile menggunakan Flutter atau Kotlin untuk Android.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">UI/UX Design (User Interface/User Experience)</string>
+    <string name="description21">Pelajari prinsip desain antarmuka pengguna (UI) dan pengalaman pengguna (UX). Gunakan alat seperti Figma atau Adobe XD untuk membuat prototipe aplikasi.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Sistem Operasi atau Operating System (OS)</string>
+    <string name="description22">Pahami dasar-dasar sistem operasi seperti manajemen proses, memori, dan file. Pelajari konsep seperti multitasking dan threading.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Blockchain atau yang dikenal Rantai Blok</string>
+    <string name="description23">Pelajari teknologi blockchain dan konsep seperti hashing, smart contract, dan penggunaan cryptocurrency.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Machine Learning Biasa dikenal Dengan Pembelajaran Mesin</string>
+    <string name="description24">Pelajari dasar machine learning, seperti algoritma regresi linier dan clustering. Gunakan library seperti TensorFlow atau Scikit-learn.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Jaringan Komputer (Sekumpulan Perangkat Yang Saling Terhubung)</string>
+    <string name="description25">Pelajari konsep dasar jaringan seperti IP address, DNS, dan HTTP/HTTPS. Buat simulasi jaringan menggunakan alat seperti Cisco Packet Tracer.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Pengolahan Data Besar (Big Data)</string>
+    <string name="description26">Pelajari alat seperti Hadoop atau Apache Spark untuk memproses data dalam skala besar. Pelajari konsep MapReduce dan data pipeline.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Virtualisasi dan Docker(Platform untuk membuat, mengemas, dan menjalankan aplikasi dalam kontainer)</string>
+    <string name="description27">Pelajari bagaimana menggunakan Docker untuk membuat container dan mengelola lingkungan pengembangan yang konsisten. Gunakan perintah seperti docker build dan docker run.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Kecerdasan Buatan atau Artificial Intelligence(AI)</string>
+    <string name="description28">Pahami konsep dasar AI seperti natural language processing (NLP) dan computer vision. Gunakan framework seperti OpenAI atau PyTorch untuk eksperimen.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Testing Otomatisasi Biasa dikenal Dengan Automated Testing</string>
+    <string name="description29">Gunakan alat seperti Selenium untuk mengotomatisasi pengujian aplikasi web. Buat skrip pengujian sederhana yang memverifikasi form input.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Project Showcase atau Presentasi Proyek</string>
+    <string name="description30">Gabungkan semua yang telah dipelajari dengan membuat proyek kecil. Misalnya, buat aplikasi web sederhana dengan backend, frontend, API, dan database.</string>
+</resources>
